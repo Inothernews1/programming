@@ -1,5 +1,6 @@
 // /r/DailyProgrammer Challenge #3 Easy
 // Completed on: 1/24/2016
+// By Jonah Sussman
 
 #include <stdio.h>
 #include <stdlib.h>

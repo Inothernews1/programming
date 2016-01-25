@@ -1,5 +1,6 @@
-// /r/ DailyProgrammer Challenge #4 Easy
+// /r/DailyProgrammer Challenge #4 Easy
 // Completed on: 1/24/2016
+// By Jonah Sussman
 
 #include <stdio.h>
 #include <stdlib.h>
