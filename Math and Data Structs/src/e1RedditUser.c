@@ -1,5 +1,5 @@
 // /r/DailyProgrammer Challenge #1 Easy
-// Completed on: 1/24/2016
+// Completed on: 2016-1-24
 // By Jonah Sussman
 
 #include <stdio.h>
