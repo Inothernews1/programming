@@ -1,4 +1,4 @@
-// /r/DailyProgrammer Challenge #5 Easy
+// /r/DailyProgrammer Challenge #6 Easy
 // Completed on: 2016-2-1
 // By Jonah Sussman
 
