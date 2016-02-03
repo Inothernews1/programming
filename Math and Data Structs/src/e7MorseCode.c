@@ -1,5 +1,5 @@
 // /r/DailyProgrammer Challenge #7 Easy
-// Completed on:
+// Completed on: 2016-2-3
 // By Jonah Sussman
 
 #include <stdio.h>
