@@ -49,5 +49,6 @@ int main (int argc, char* argv[]) {
     printf("%s\n", pass[i]);
   }
 
+  getchar();
   return 0;
 }
